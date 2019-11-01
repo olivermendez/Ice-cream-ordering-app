@@ -16,7 +16,7 @@ Configure su BD con Firebase [aqui](https://firebase.google.com/docs/web/setup).
 Descargue o clone el proyecto actual:
 
 ```bash
-git clone https://github.com/
+git clone git@github.com:olivermendez/Ice-cream-ordering-app.git
 ```
 ```bash
 npm install
