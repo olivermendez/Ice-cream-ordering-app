@@ -1,6 +1,8 @@
 # Ice Cream Ordering APP
 Phase Beta
 
+![Home](https://i.ibb.co/NpH316S/Screenshot-2019-11-01-Ice-Cream-App-Ordering-Home.png)
+
 La empresa Rantic es una de las empresas más grandes en la industria de la construcción de software hecho a la medida. A raíz de una encuesta realizada recientemente, se ha demostrado que al 92% de sus colaboradores les gusta comer helado con sus compañeros de trabajo. Sin embargo, debido a la gran cantidad de colaboradores que trabajan en la organización esta es una actividad que se ha tornado compleja.
 
 La empresa requiere de tus servicios para poder solucionar esta problemática que ha disminuido la productividad de sus colaboradores.
